@@ -16,7 +16,7 @@ Direct mail costs money per piece, but most prospects never respond. Mailing wit
 - Attached real economics ($1/mail, $50/acquisition — stated assumptions) to calculate profit and ROI at each decile
 ## Dashboard
 - Built a one-page Power BI dashboard summarizing the above — KPI cards, response rate and ROI by decile, and a plain-language takeaway banner. (Screenshot below.)
-  ![Dashboard Screenshot](dashboard-screenshot.png)
+  ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Key finding
 Targeting just the top 20% of prospects still captures 65% of all responders while mailing 80% fewer people. The top 10% alone return a 2,449% ROI.
